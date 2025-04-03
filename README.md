@@ -27,6 +27,7 @@
 ✅ AI-powered applications  
 ✅ Python automation scripts  
 ✅ Web development projects 
+
 ✅ Scientific Documentation projects using LaTex Typescript 
   
 
